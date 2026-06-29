@@ -121,7 +121,6 @@ Evaluation metrics reported on the held-out validation set (~2 years):
 | H1 (6 months) | LightGBM | — |
 | Annual (12 months) | LightGBM | — |
 
-> Fill in your WAPE values after running the notebook.
 
 ---
 
