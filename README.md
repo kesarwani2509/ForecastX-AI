@@ -54,7 +54,7 @@ Output: P10 / P50 / P90 forecasts per group × horizon
 
 | Property | Value |
 |---|---|
-| Source | [80,000 Sales Records – Kaggle](https://www.kaggle.com/datasets/yourlink) |
+| Source | [1 M Sales Records – Kaggle]([https://www.kaggle.com/datasets/kalyugvasi/sale-dataset]) |
 | Rows | 1,048,575 orders |
 | Date range | Jan 2010 – Sep 2020 |
 | Granularity | Monthly per (channel × category) after aggregation |
